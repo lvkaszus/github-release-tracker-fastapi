@@ -1,0 +1,10 @@
+src/data/
+__pycache__/
+venv/
+bin/
+include/
+lib/
+lib64/
+lib64
+pyvenv.cfg
+.env
